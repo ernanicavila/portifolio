@@ -1,18 +1,7 @@
-.div1 {
-  width: 150px;
-  height: 150px;
-  background-color: red;
-}
-
-.div2 {
-  width: 150px;
-  height: 150px;
-  background-color: blue;
-}
-
-.father {
+.div {
   display: flex;
-  width: 700px;
-  border: 1px solid black;
   justify-content: space-between;
+  width: 350px;
+
+  border: 1px solid black;
 }
