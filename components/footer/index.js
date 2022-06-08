@@ -41,9 +41,10 @@ class Footer extends HTMLElement {
   <footer>
     <div class="socialFooterDiv">
       <a href="https://www.linkedin.com/in/ernaniavila/"
+      target='_blank'
         ><img src="images/linkedin.png"
       /></a>
-      <a href="https://github.com/ernanicavila"
+      <a href="https://github.com/ernanicavila" target='_blank'
         ><img src="images/git.png" width="30px" alt=""
       /></a>
     </div>
