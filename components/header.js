@@ -24,7 +24,7 @@ class Header extends HTMLElement {
       <div class="nav-bar">
         <a href="/index.html">Home</a>
         <a href="/projects.html">Projetos</a>
-        <a href="/about.html">Sobre mim</a>
+       
       </div>
       </header>
     `;
