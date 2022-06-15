@@ -8,8 +8,9 @@ class Footer extends HTMLElement {
     <style>
     .socialFooterDiv {
       display: flex;
-      justify-content: space-between;
+      // justify-content: space-between;
       margin: auto;
+      
     }
     footer {
       height: 60px;
