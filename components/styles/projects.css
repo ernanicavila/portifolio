@@ -1,0 +1,26 @@
+.projetos {
+  max-width: 480px;
+  margin: 8px;
+  display: inline-block;
+  width: 300px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.projetos h1 {
+  font-size: 32px;
+}
+.textProject {
+  margin: 8px auto;
+}
+a {
+  font-size: 18px;
+  color: blue;
+}
+.projectsList {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}

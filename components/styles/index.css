@@ -1,21 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-#underConstruction h1 {
-  align-items: center;
-  text-align: center;
-  font-size: 50px;
-}
 #mainTitle {
   font-size: 40px;
 }
 .mainLetter p {
   margin-top: 40px;
-}
-#mainSection {
-  margin: 140px auto;
 }
 
 .pic {
@@ -27,14 +14,4 @@
   width: 855px;
   align-items: center;
   margin: auto;
-}
-
-.social {
-  display: flex;
-  margin-top: auto;
-  justify-content: space-between;
-  width: 120px;
-}
-.picture {
-  border-radius: 5px 0px 0px 5px;
 }
