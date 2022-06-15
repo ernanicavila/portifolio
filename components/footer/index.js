@@ -18,9 +18,10 @@ class Footer extends HTMLElement {
       justify-content: space-between;
       align-items: center;
       background-color: #dfdfe2;
-      position: relative;
+      position: fixed;
       width: 100%;
       bottom: 0px;
+      
     }
 
     a {
@@ -34,9 +35,7 @@ class Footer extends HTMLElement {
       box-shadow: inset 0 -2px 0 0 #333;
     }
 
-    .social-row {
-      font-size: 20px;
-    }
+   
   </style>
   <footer>
     <div class="socialFooterDiv">

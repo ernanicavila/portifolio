@@ -15,8 +15,7 @@
   margin-top: 40px;
 }
 #mainSection {
-  margin-top: 140px;
-  min-height: 74vh;
+  margin: 140px auto;
 }
 
 .pic {
