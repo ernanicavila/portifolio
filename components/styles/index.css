@@ -13,8 +13,35 @@
 }
 
 .mainLetter {
-  width: 450px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+  width: 760px;
   display: flex;
-  flex-direction: column;
   margin: 20px auto;
+}
+@media screen and (max-width: 768px) {
+  body {
+    width: 100%;
+  }
+  .pic {
+    width: 150px;
+    height: 150px;
+  }
+  .mainLetter {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+  }
+  #mainTitle h1 {
+    text-align: center;
+    font-size: 16px;
+  }
+
+  #mainTitle p {
+    margin: 16px auto;
+    text-align: center;
+    font-size: 14px;
+  }
 }
