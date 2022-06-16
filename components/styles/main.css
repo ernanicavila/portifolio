@@ -5,10 +5,13 @@
 #mainSection {
   margin: 140px auto;
 }
+body {
+  background-color: white;
+}
 
-@media screen and(max-width: 768px) {
+@media screen and (max-width: 768px) {
   #mainSection {
-    margin: 20px auto;
+    margin: 60px auto;
   }
   body {
     background-color: white;

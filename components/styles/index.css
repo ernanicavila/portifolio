@@ -44,4 +44,7 @@
     text-align: center;
     font-size: 16px;
   }
+  #mainSection {
+    margin: 60px auto;
+  }
 }
