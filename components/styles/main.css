@@ -11,7 +11,7 @@ body {
 
 @media screen and (max-width: 768px) {
   #mainSection {
-    margin: 60px auto;
+    margin: 120px auto;
   }
   body {
     background-color: white;

@@ -1,5 +1,5 @@
 #mainTitle {
-  font-size: 20px;
+  font-size: 24px;
   margin: 20px auto;
 }
 .mainLetter p {
@@ -32,19 +32,15 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    margin: 20px auto;
   }
   #mainTitle h1 {
     text-align: center;
-    font-size: 18px;
+    font-size: 24px;
   }
 
   #mainTitle p {
     margin: 16px auto;
     text-align: center;
-    font-size: 16px;
-  }
-  #mainSection {
-    margin: 60px auto;
+    font-size: 18px;
   }
 }

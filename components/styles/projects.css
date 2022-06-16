@@ -38,7 +38,7 @@ header h1 {
     padding: 4px;
     display: flex;
     flex-direction: column;
-    margin: 8px auto;
+    margin: 16px auto;
   }
   .textProject {
     margin: 4px auto;
