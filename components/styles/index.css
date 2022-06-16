@@ -15,7 +15,6 @@
 .mainLetter {
   align-items: center;
   justify-content: space-between;
-  border: 1px solid black;
   width: 760px;
   display: flex;
   margin: 20px auto;
@@ -23,25 +22,26 @@
 @media screen and (max-width: 768px) {
   body {
     width: 100%;
+    font-size: x-large;
   }
   .pic {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
   }
   .mainLetter {
-    width: 350px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     margin: 20px auto;
   }
   #mainTitle h1 {
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   #mainTitle p {
     margin: 16px auto;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
   }
 }

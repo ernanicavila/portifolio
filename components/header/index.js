@@ -24,6 +24,12 @@ class Header extends HTMLElement {
       font-size: 18px;
       flex-direction: row-reverse;
     }
+    @media screen and (max-width: 768px) {
+      .nav-bar {
+        height: 50px;
+        font-size: 18px;
+      }
+    }
   </style>
   <header>
     <div class="nav-bar">
