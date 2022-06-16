@@ -24,3 +24,7 @@
   margin-right: auto;
   text-align: center;
 }
+.projetos img {
+  width: 300px;
+  height: 150px;
+}
