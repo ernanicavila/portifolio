@@ -10,4 +10,7 @@
   #mainSection {
     margin: 20px auto;
   }
+  body {
+    background-color: white;
+  }
 }
